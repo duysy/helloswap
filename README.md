@@ -1,6 +1,7 @@
 
 https://duysyncc.github.io/helloswap/build/
 <h1>Please switch to matic network to use app<h1>
+<h2>App fetch data from blockchain, please wait<h2>
 
 npm install eslint --save-dev
 npx eslint --init
